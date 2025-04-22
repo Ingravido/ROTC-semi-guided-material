@@ -1,3 +1,6 @@
+## TWer: Javier del Saz Sánchez - javier.d1@thoughtworks.com
+### Solution is under final_assignment/solution
+
 # Kubernetes Assignment
 
 ## New Project - Crud REST API MVP

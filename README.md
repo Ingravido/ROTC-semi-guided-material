@@ -1,3 +1,6 @@
+## TWer: Javier del Saz Sánchez - javier.d1@thoughtworks.com
+### Solution is under final_assignment/solution
+
 # The Rise of the Containers (semi-guided) material
 
 
